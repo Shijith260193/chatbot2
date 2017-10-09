@@ -1,0 +1,20 @@
+{
+  "name": "botkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shijith",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "moment": "^2.18.1",
+    "mongoose": "^4.12.0",
+    "mongoose-double": "0.0.1",
+    "node-uuid": "^1.4.8",
+    "request": "^2.83.0"
+  }
+}
